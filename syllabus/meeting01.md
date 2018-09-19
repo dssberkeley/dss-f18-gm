@@ -2,7 +2,7 @@
 [Slides for this week's meeting](https://docs.google.com/presentation/d/1JgkdQVMCzkKdugNOFYCQfW3_vzophQe_bdqyzkjx8qk/edit#slide=id.p)
 
 ## Data Resources
--  https://www.kaggle.com/datasets
+- https://www.kaggle.com/datasets
 - https://fred.stlouisfed.org/
 - https://toolbox.google.com/datasetsearch
 - https://www.basketball-reference.com/
@@ -11,6 +11,8 @@
 - https://www.data.gov/
   - https://datasf.org/opendata/
   - https://data.cityofberkeley.info/
+- https://data.worldbank.org/
+- http://data.un.org/ 
 - Lots of data sources online!
   - Use APIs (e.g. [Twitter](https://developer.twitter.com/en/docs.html), [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page), [Spotify](https://developer.spotify.com/documentation/), etc.)
 
