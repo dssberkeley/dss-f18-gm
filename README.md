@@ -1,5 +1,5 @@
 # f18-gm
-Materials for DSS@Berkeley's Fall 2018 General Membership program.
+Materials for [DSS@Berkeley](https://dss.berkeley.edu)'s Fall 2018 General Membership program.
 
 ## Syllabus
 - [Meeting 1](syllabus/meeting01.md)
