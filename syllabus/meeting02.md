@@ -10,6 +10,7 @@ Everyone should stand up and each person should answer three questions:
 ## Github Repository Pointers
 - [Example data science project directory](https://github.com/junseo-park/practice-DS-project-repo)
 - README.md
+  - If you're new to Markdown: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - data: Include both raw and processed/clean data
 - notebooks:
   - Naming convention: number - title
