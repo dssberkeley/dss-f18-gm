@@ -1,6 +1,6 @@
 # meeting07
 
-Announcements!
+## Announcements
 
 - Collaboration with SUSA Research & Publications Committee Symposium
   - **November 28, 6:30pm-8pm** at Wozniak Lounge
