@@ -10,8 +10,7 @@
 - [DSS Data Science Panel](https://www.facebook.com/events/282695119027448/)
   - Early bird tickets!
 
-
-
+---
 
 This week:
 
