@@ -9,6 +9,7 @@ Materials for [DSS@Berkeley](https://dss.berkeley.edu)'s Fall 2018 General Membe
 - [Meeting 5](syllabus/meeting05.md)
 - [Meeting 6](syllabus/meeting06.md)
 - [Meeting 7](syllabus/meeting07.md)
+- [Meeting 8](syllabus/meeting08.md)
 
 ## References
 The setup and structure of the F18 DSS General Membership program is referenced from the following:
